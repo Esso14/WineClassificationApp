@@ -1,19 +1,6 @@
 
 nympy
 pandas
-ydata-profiling
-mlflow
 streamlit
 scikitlearn
-
-pickle
 joblib
-
-click
-
-python-dotenv
-
-colorama
-matplotlib
-requests
-requests-cache
