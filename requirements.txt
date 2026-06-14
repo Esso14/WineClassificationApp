@@ -1,4 +1,4 @@
-nympy
+numpy
 pandas
 streamlit
 scikitlearn
